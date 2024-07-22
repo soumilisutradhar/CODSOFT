@@ -46,9 +46,6 @@ body {
   transition: background 0.3s ease-in-out;
 }
 
-/* ............/navbar/............ *
-
-/* desktop mode............/// */
 
 .navbar input[type="checkbox"],
 .navbar .hamburger-lines {
@@ -276,7 +273,7 @@ body {
   top: 40%;
 }
 
-/* .........../Food Menu/............ */
+
 
 .food-menu-heading {
   text-align: center;
